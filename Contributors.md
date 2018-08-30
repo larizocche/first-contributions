@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Aviv Alon] (https://github.com/aalon2)
 - [Farrell Seah](https://github.com/farrellseah)
@@ -7,6 +7,8 @@
 - patrik
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
 - [Ian Sapp] (https://github.com/FourthMeal128)
+- [](https://github.com/mthariath)
+
 - [Abhipsha Das](https://github.com/chiral-carbon)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Hiatt Zhao](https://github.com/hiattzhao)
@@ -334,6 +336,7 @@
 - [wongsiewyuei](https://github.com/wongsiewyuei)
 - [yati padia](https://github.com/yati1998)
 - [Tanuj Nagpal](https://github.com/Tanuj69)
+- Larissa
 - [Shradha Sharma](https://github.com/Shradha27)
 - [Abhith Krishna](https//github.com/donosco98)
 - [Ankur Dubey](https://github.com/ankurdubey521)
@@ -437,7 +440,8 @@
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
 - [Amal Thelly](https://github.com/amalthelly)
-- [DAndre Hogan](https;//github.com/Dhogan92)
+- [DAndre Hogan](https;//gilARI(https://github.com/mthariath)
+
 - [Brian Drake](https://github.com/bdrakester)
 - [Idan Madar](https://github.com/T882200)
 - [Nicholas Tsang](https://github.com/nicktsan)
@@ -454,7 +458,7 @@
 - [Read Hughes](https://github.com/rthugh02)
 - [Bert78](https://github.com/bert78)
 - [Myles Heck](https://github.com/myheck)
-- [Ben Otte](https://github.com/ahtee)
+- [Ben Otte](https://github.com/ahtee
 - [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
 - [Michael airola](https://github.com/michaelairola)
